@@ -1,21 +1,21 @@
 # TOS
-TOS for the Music Notey Bot
-# ByteyBot Privacy Policy & Terms of Service
+TOS for the Desmos Bot
+# Desmsos Privacy Policy & Terms of Service
 
 ## 📌 Privacy Policy
 
-ByteyBot does **not** collect, store, or share any personal information from users.  
+Desmos does **not** collect, store, or share any personal information from users.  
 All interactions with the bot occur entirely within Discord servers and are processed in real-time without logging any data.
 
 We do not track user activity, store messages, or use third-party analytics.
 
-If ByteyBot ever implements features that require data storage in the future, users will be notified and this policy will be updated.
+If Desmos ever implements features that require data storage in the future, users will be notified and this policy will be updated.
 
 ---
 
 ## 📄 Terms of Service
 
-By using ByteyBot, you agree to the following:
+By using Desmos, you agree to the following:
 
 - You will not attempt to exploit or abuse the bot.
 - You understand the bot is provided "as-is" with no guarantees.
@@ -28,8 +28,8 @@ By using ByteyBot, you agree to the following:
 
 For questions, concerns, or takedown requests, contact the developer directly on Discord:
 
-**byteybot** 
+**capfur** 
 
 ---
 
-© 2025 ByteyBot & ZNO. All rights vibed. 💽
+© 2025 Desmos & Captain. All rights vibed. 💽
